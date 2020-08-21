@@ -6,6 +6,7 @@
     xmlns:local="clr-namespace:OverflowInt_App"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Title="MainWindow"
+    Background="#c4c4c4"
     Width="800"
     Height="548.969"
     mc:Ignorable="d">
