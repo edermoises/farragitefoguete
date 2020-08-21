@@ -35,7 +35,7 @@
             Margin="351,54,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
-            HorizontalContentAlignment="Right"
+            HorizontalContentAlignment="Center"
             FontSize="36" />
 
     </Grid>
