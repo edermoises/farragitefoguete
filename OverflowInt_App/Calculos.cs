@@ -12,7 +12,7 @@ namespace OverflowInt_App
         public int CalculoTrajetoria(int timeBoxNumber, int velocity)
         {
             int numeroBase = timeBoxNumber;
-            int expoente = velocity;
+            int expoente = 20;
 
             int valor = (int)Math.Pow(numeroBase, expoente);
 
