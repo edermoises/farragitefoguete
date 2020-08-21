@@ -28,7 +28,7 @@
             VerticalAlignment="Top"
             HorizontalContentAlignment="Right"
             FontSize="36"
-            Foreground="Yellow" />
+            Foreground="Blue" />
         <Label
             x:Name="lblTimer"
             Width="387"
